@@ -15,5 +15,4 @@ To explore the report, you can download the PBIX file from [GitHub](https://gith
 ## Connect with Me
 If you have any questions or feedback regarding this project, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vishnukanth-k-a5552327b/).
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
